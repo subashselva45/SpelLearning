@@ -1,0 +1,11 @@
+debug: true
+page:
+  mood: 55
+#page:
+#  name: prod
+
+
+
+#spring:
+#  profiles:
+#    active: dev
